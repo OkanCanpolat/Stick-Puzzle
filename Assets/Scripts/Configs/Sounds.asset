@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aadb33d2d9aefa6439c9e0f2d36610e1, type: 3}
+  m_Name: Sounds
+  m_EditorClassIdentifier: 
+  WinSound: {fileID: 8300000, guid: 80a74ec3b3d025a48838f09cb8715923, type: 3}
+  WinVolume: 1
+  LoseSound: {fileID: 8300000, guid: 8cc9c3ad431f36346a9de2b5ad6d3c1c, type: 3}
+  LoseVolume: 1
+  OutMovesSound: {fileID: 8300000, guid: 874fa490cf315f948a758df5248ff5bb, type: 3}
+  OutMovesVolume: 1
+  ButtonSound: {fileID: 8300000, guid: 09eb330b323431948a380974b2ef67b9, type: 3}
+  ButtonVolume: 1
+  PaintSound: {fileID: 8300000, guid: 71d115e2062110547bac5bb802a852fb, type: 3}
+  PaintVolume: 1
+  BlastSound: {fileID: 8300000, guid: fbc389082df67034793bdd4923298332, type: 3}
+  BlastVolume: 1

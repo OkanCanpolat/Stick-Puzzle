@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f628c741f147284d86498be4289ab36, type: 3}
+  m_Name: GridManagerConfig
+  m_EditorClassIdentifier: 
+  DotPrefab: {fileID: -8795674166699893429, guid: c3349c6a6cfb069499f174f840ac3925, type: 3}
+  CellPrefab: {fileID: 7869119484663738401, guid: ee07a58e1a1ba1040a680b2fb586fd52, type: 3}
+  HorizontalLinePrefab: {fileID: -1616964535690521869, guid: b2e02343aea2bc04c86c5fe1ee6f47ea, type: 3}
+  VerticalLinePrefab: {fileID: 3084659734037811482, guid: e46ca3f810689584bb0c6e484dd36cec, type: 3}

@@ -1,0 +1,1416 @@
+fileFormatVersion: 2
+guid: 52276ff7e6211e84196a1c8990ee04ee
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jungleSpriteFont_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 294
+        width: 28
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3c5f184b4fb59468153753eeb363c2
+      internalID: -1887536593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungleSpriteFont_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 295
+        width: 68
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e65f611892c3d240a73eeb4787b91dd
+      internalID: -1377897215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungleSpriteFont_2
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 294
+        width: 51
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36bb0293e6a8f154fbd4e4cae5ddda38
+      internalID: 608841148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungleSpriteFont_3
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 296
+        width: 77
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b4b94d06b88ff45afefc8e52fc9a1f
+      internalID: -1526892613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungleSpriteFont_4
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 294
+        width: 76
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b099f4241d6c1948b4c231baf5eca51
+      internalID: 1124040412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungleSpriteFont_5
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 287
+        width: 37
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bebafc599807d64f917fa5a9b81e876
+      internalID: 2070063542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungleSpriteFont_6
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 291
+        width: 35
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7722e04ec3f0294ebc576c2caee6f0e
+      internalID: -1472315886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungleSpriteFont_7
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 348
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e07f7985a0712945beca6bd1303ffb7
+      internalID: 1359658819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungleSpriteFont_8
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 296
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da03df445f9ff840814f8a3f974d845
+      internalID: 2110328644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungleSpriteFont_9
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 294
+        width: 60
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724882d8d2b0c3243ab32e11f96b1a29
+      internalID: -1118941754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungleSpriteFont_10
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 294
+        width: 46
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4941d3cd87d735f4488bb16f07e91b90
+      internalID: -1177753640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungleSpriteFont_11
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 294
+        width: 62
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3e786b727d3d64bac710197761ca33
+      internalID: 1779266908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungleSpriteFont_12
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 294
+        width: 61
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9844b27798c4f43b26fbd9cfc7b13a
+      internalID: 1039480876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungleSpriteFont_13
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 294
+        width: 64
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190bd12a492d17543be991b87d4de7ca
+      internalID: 1136571417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungleSpriteFont_14
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 294
+        width: 62
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da1d89f4d973ef488732430865d0f40
+      internalID: 1868452478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungleSpriteFont_15
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 297
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c8e3ca4a9acce4aa46c0d28d338338
+      internalID: 1299166327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungleSpriteFont_16
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 323
+        width: 46
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbee39859d0e774ca729d68ffcbad27
+      internalID: 278676697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungleSpriteFont_17
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 286
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f7be01b853c814b8bb8efbb22ac34f
+      internalID: -2026707501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungleSpriteFont_18
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 288
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abe2de027be94842a367c63188831e7
+      internalID: 1559185130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungleSpriteFont_19
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 161
+        width: 63
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75cc5cdfb7537f498878c632e041792
+      internalID: -1531648220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungleSpriteFont_20
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 161
+        width: 57
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2caa2eff22da94681ff5e52206d33f
+      internalID: 1921719301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungleSpriteFont_21
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 161
+        width: 63
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc1b1f257e8ee541b28aeab6146bcf9
+      internalID: -106664374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungleSpriteFont_22
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 161
+        width: 57
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3530564a9aeb8864099e311b2b0c7ea7
+      internalID: -1122421588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungleSpriteFont_23
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 190
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5269a936d9952284f95f60d635e0d7f6
+      internalID: -1206535196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungleSpriteFont_24
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 192
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91dedeb26b72717488513048528b9251
+      internalID: -864443146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungleSpriteFont_25
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 194
+        width: 55
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5333e4574147744aa0f0289743e8e81
+      internalID: -1579980612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungleSpriteFont_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 161
+        width: 56
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765601f72b17c1346a5de9bbc4f5da4a
+      internalID: 1051200763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungleSpriteFont_27
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 161
+        width: 63
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b44dfa4996d12045ae62290f869a5d0
+      internalID: 498531832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungleSpriteFont_28
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 161
+        width: 71
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8128a653aaa394bb4ff25bbb404849
+      internalID: 276141553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungleSpriteFont_29
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 161
+        width: 63
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8466b8bbc22eb7544a2968a92c3b7cb9
+      internalID: -102673902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungleSpriteFont_30
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 161
+        width: 71
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11bb5bce3a096c4ba74548875e57a41
+      internalID: -125796480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungleSpriteFont_31
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 156
+        width: 59
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04087429da9f924784340a6299aa83b
+      internalID: -1152737469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungleSpriteFont_32
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 161
+        width: 62
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab0f0106bb2f9b4293c0f496651bd9e
+      internalID: -1371797076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungleSpriteFont_33
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 161
+        width: 65
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17f16e51d8b3b2418731c0c88b68ac8
+      internalID: -2101832726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungleSpriteFont_34
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 161
+        width: 72
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0621c92af54fda54191447ed7e86dcbe
+      internalID: -1479572771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungleSpriteFont_35
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 160
+        width: 28
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ba0cb902346c2418363c2e7e205c9b
+      internalID: -276001225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungleSpriteFont_36
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 161
+        width: 48
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca39ec988b2d0914394e5bb91129af7d
+      internalID: -1428023830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungleSpriteFont_37
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 159
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e81bb56a899eca4c9d1199b62ef0fa4
+      internalID: -1465076184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungleSpriteFont_38
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 153
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff447f13855deda46a7ec180e28cf168
+      internalID: 760806619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungleSpriteFont_39
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 174
+        width: 53
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c3c87692da28f41844afb78fee2efa
+      internalID: 2039044104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungleSpriteFont_40
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 150
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b346f271c2e818b44a4575a19bac7e19
+      internalID: 592726222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungleSpriteFont_41
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 138
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330ba005a04b6cd4e9f0d827a72de57f
+      internalID: 1512444353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungleSpriteFont_42
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 28
+        width: 78
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ef4f22840303a4e84166b4a5989746
+      internalID: 1071653049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungleSpriteFont_43
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 28
+        width: 48
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ac07e444e48ac47a8f419332cd67a7
+      internalID: -1746803041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungleSpriteFont_44
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 28
+        width: 95
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1414c9be6c61b404e839e227a083d51c
+      internalID: -1307712761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungleSpriteFont_45
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 27
+        width: 68
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c31618a143572842bb915ddcab28832
+      internalID: 1300118807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungleSpriteFont_46
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 28
+        width: 64
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a7c0a97c75d9946b901c7e9b21cd29
+      internalID: -1676722108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungleSpriteFont_47
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 28
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616dc9f8711927544834323c6df4a5c4
+      internalID: 1917422571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungleSpriteFont_48
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 28
+        width: 60
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264b145d6bd6da44bafac7c7873e0b2d
+      internalID: -1689229325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungleSpriteFont_49
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 28
+        width: 70
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae74fa0a86c936448d326dd83d21302
+      internalID: -98813365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungleSpriteFont_50
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 28
+        width: 62
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2de76062c766148b508ebe65989837
+      internalID: 1015346610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungleSpriteFont_51
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 28
+        width: 55
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5816e3fce85abe241b5473869f062dc9
+      internalID: -1537650957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungleSpriteFont_52
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 24
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843fbdc81405bb2428f4dc015e75c3b3
+      internalID: -544333170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungleSpriteFont_53
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 27
+        width: 60
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f9fbbfaaf12b546aee35bc3ecf2fd0
+      internalID: -1892564232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungleSpriteFont_54
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 28
+        width: 89
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b123e936782ded4bbe124a2b711391c
+      internalID: 557140135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungleSpriteFont_55
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 28
+        width: 68
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edbdae5add399c943a8f6270149a115a
+      internalID: 2030893965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungleSpriteFont_56
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 28
+        width: 66
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afd3db0fab8b074e9e0ddb35beb0a1d
+      internalID: -1050331786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jungleSpriteFont_57
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 28
+        width: 62
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3385bd9e2fe23034ab19e68345d6feee
+      internalID: 767551499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      jungleSpriteFont_0: -1887536593
+      jungleSpriteFont_1: -1377897215
+      jungleSpriteFont_10: -1177753640
+      jungleSpriteFont_11: 1779266908
+      jungleSpriteFont_12: 1039480876
+      jungleSpriteFont_13: 1136571417
+      jungleSpriteFont_14: 1868452478
+      jungleSpriteFont_15: 1299166327
+      jungleSpriteFont_16: 278676697
+      jungleSpriteFont_17: -2026707501
+      jungleSpriteFont_18: 1559185130
+      jungleSpriteFont_19: -1531648220
+      jungleSpriteFont_2: 608841148
+      jungleSpriteFont_20: 1921719301
+      jungleSpriteFont_21: -106664374
+      jungleSpriteFont_22: -1122421588
+      jungleSpriteFont_23: -1206535196
+      jungleSpriteFont_24: -864443146
+      jungleSpriteFont_25: -1579980612
+      jungleSpriteFont_26: 1051200763
+      jungleSpriteFont_27: 498531832
+      jungleSpriteFont_28: 276141553
+      jungleSpriteFont_29: -102673902
+      jungleSpriteFont_3: -1526892613
+      jungleSpriteFont_30: -125796480
+      jungleSpriteFont_31: -1152737469
+      jungleSpriteFont_32: -1371797076
+      jungleSpriteFont_33: -2101832726
+      jungleSpriteFont_34: -1479572771
+      jungleSpriteFont_35: -276001225
+      jungleSpriteFont_36: -1428023830
+      jungleSpriteFont_37: -1465076184
+      jungleSpriteFont_38: 760806619
+      jungleSpriteFont_39: 2039044104
+      jungleSpriteFont_4: 1124040412
+      jungleSpriteFont_40: 592726222
+      jungleSpriteFont_41: 1512444353
+      jungleSpriteFont_42: 1071653049
+      jungleSpriteFont_43: -1746803041
+      jungleSpriteFont_44: -1307712761
+      jungleSpriteFont_45: 1300118807
+      jungleSpriteFont_46: -1676722108
+      jungleSpriteFont_47: 1917422571
+      jungleSpriteFont_48: -1689229325
+      jungleSpriteFont_49: -98813365
+      jungleSpriteFont_5: 2070063542
+      jungleSpriteFont_50: 1015346610
+      jungleSpriteFont_51: -1537650957
+      jungleSpriteFont_52: -544333170
+      jungleSpriteFont_53: -1892564232
+      jungleSpriteFont_54: 557140135
+      jungleSpriteFont_55: 2030893965
+      jungleSpriteFont_56: -1050331786
+      jungleSpriteFont_57: 767551499
+      jungleSpriteFont_6: -1472315886
+      jungleSpriteFont_7: 1359658819
+      jungleSpriteFont_8: 2110328644
+      jungleSpriteFont_9: -1118941754
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

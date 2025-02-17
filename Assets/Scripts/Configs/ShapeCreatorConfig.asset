@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3b55cb91807020438888dfe37a63cdf, type: 3}
+  m_Name: ShapeCreatorConfig
+  m_EditorClassIdentifier: 
+  Shapes:
+  - {fileID: 4349867786606972118, guid: 481e085f0b5afae44b0354e53ac5f543, type: 3}
+  - {fileID: 2504943635999728112, guid: 19039b119b9a8604fa6b3b20c0ca0405, type: 3}
+  - {fileID: 7017781016329870707, guid: 6f7e1470f583c784a9949d05af1af3fb, type: 3}
+  - {fileID: 859497193372886371, guid: 84b03ea7413a25a43a546cc88330884e, type: 3}
+  - {fileID: 8177522399140345675, guid: 78dbf5ba1952c86459d9934607046946, type: 3}
+  - {fileID: 1352748644927364603, guid: 1056b32450c6a9049a1aae5572e3fa05, type: 3}
+  - {fileID: 1245614566958741039, guid: 9cf2c256183394246bc6830e8412a74e, type: 3}
+  - {fileID: 160166712409250770, guid: 86575e9edeaf5424c900a815b25b1a93, type: 3}
+  - {fileID: 2380180437379875793, guid: 9677e20d2720dc543b7582125e7616e5, type: 3}
+  - {fileID: 4240155681314441225, guid: efe62ab6c6417ce498aa404039593489, type: 3}
+  - {fileID: 3322043075344369487, guid: a386a484267cee243a1c86e6f0dd4ade, type: 3}
+  - {fileID: 3672603757194424731, guid: 2527c243a16b47f41a69665a2e4ee4bc, type: 3}
+  - {fileID: 7624976854312805309, guid: 79c9d05354e125c459e3f26c4a331b99, type: 3}
+  HighProbabilityShapes:
+  - {fileID: 2504943635999728112, guid: 19039b119b9a8604fa6b3b20c0ca0405, type: 3}
+  - {fileID: 7017781016329870707, guid: 6f7e1470f583c784a9949d05af1af3fb, type: 3}
+  LowProbabilityShapes:
+  - {fileID: 4349867786606972118, guid: 481e085f0b5afae44b0354e53ac5f543, type: 3}
+  - {fileID: 859497193372886371, guid: 84b03ea7413a25a43a546cc88330884e, type: 3}
+  - {fileID: 8177522399140345675, guid: 78dbf5ba1952c86459d9934607046946, type: 3}
+  - {fileID: 1352748644927364603, guid: 1056b32450c6a9049a1aae5572e3fa05, type: 3}
+  - {fileID: 1245614566958741039, guid: 9cf2c256183394246bc6830e8412a74e, type: 3}
+  - {fileID: 160166712409250770, guid: 86575e9edeaf5424c900a815b25b1a93, type: 3}
+  - {fileID: 2380180437379875793, guid: 9677e20d2720dc543b7582125e7616e5, type: 3}
+  - {fileID: 4240155681314441225, guid: efe62ab6c6417ce498aa404039593489, type: 3}
+  - {fileID: 3322043075344369487, guid: a386a484267cee243a1c86e6f0dd4ade, type: 3}
+  - {fileID: 3672603757194424731, guid: 2527c243a16b47f41a69665a2e4ee4bc, type: 3}
+  - {fileID: 7624976854312805309, guid: 79c9d05354e125c459e3f26c4a331b99, type: 3}
+  ShapeSlideSpeed: 0.5
+  InstantiateOffset: {x: 4, y: 0, z: 0}

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: faaab252e7a0b614f87b6bcd3dd7c449, type: 3}
+  m_Name: LevelData
+  m_EditorClassIdentifier: 
+  Column: 6
+  Row: 6
+  GoalType: 0
+  PointGoalConfig: {fileID: 11400000, guid: 654557b1ce699e34bb1e136321971cea, type: 2}
+  ShapeColor: {r: 0.9215687, g: 0.38431376, b: 0.6901961, a: 1}
